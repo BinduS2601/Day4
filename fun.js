@@ -1,0 +1,11 @@
+function add(a,b) {
+    return a+b;
+   // console.log(a+b);
+}
+console.log(add(5,10));
+
+let sub=(a,b) => {
+    return a-b;
+
+}
+console.log(sub(10,5));
